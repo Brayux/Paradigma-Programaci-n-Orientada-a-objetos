@@ -1,1 +1,1 @@
-# Paradigma-Programaci-n-Orientada-a-objetos
+# Paradigma-Programación-Orientada-a-objetos
